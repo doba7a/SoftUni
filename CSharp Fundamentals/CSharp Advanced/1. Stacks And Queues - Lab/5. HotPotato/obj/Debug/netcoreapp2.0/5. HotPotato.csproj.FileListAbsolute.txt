@@ -1,0 +1,11 @@
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\bin\Debug\netcoreapp2.0\5. HotPotato.deps.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\bin\Debug\netcoreapp2.0\5. HotPotato.runtimeconfig.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\bin\Debug\netcoreapp2.0\5. HotPotato.runtimeconfig.dev.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\bin\Debug\netcoreapp2.0\5. HotPotato.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\bin\Debug\netcoreapp2.0\5. HotPotato.pdb
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\obj\Debug\netcoreapp2.0\5. HotPotato.csprojResolveAssemblyReference.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\obj\Debug\netcoreapp2.0\5. HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\obj\Debug\netcoreapp2.0\5. HotPotato.AssemblyInfoInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\obj\Debug\netcoreapp2.0\5. HotPotato.AssemblyInfo.cs
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\obj\Debug\netcoreapp2.0\5. HotPotato.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\1. Stacks And Queues - Lab\5. HotPotato\obj\Debug\netcoreapp2.0\5. HotPotato.pdb
