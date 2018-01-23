@@ -1,0 +1,10 @@
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\2. BasicStackOperations\bin\Debug\netcoreapp2.0\2. BasicStackOperations.deps.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\2. BasicStackOperations\bin\Debug\netcoreapp2.0\2. BasicStackOperations.runtimeconfig.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\2. BasicStackOperations\bin\Debug\netcoreapp2.0\2. BasicStackOperations.runtimeconfig.dev.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\2. BasicStackOperations\bin\Debug\netcoreapp2.0\2. BasicStackOperations.dll
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\2. BasicStackOperations\bin\Debug\netcoreapp2.0\2. BasicStackOperations.pdb
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\2. BasicStackOperations\obj\Debug\netcoreapp2.0\2. BasicStackOperations.csproj.CoreCompileInputs.cache
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\2. BasicStackOperations\obj\Debug\netcoreapp2.0\2. BasicStackOperations.AssemblyInfoInputs.cache
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\2. BasicStackOperations\obj\Debug\netcoreapp2.0\2. BasicStackOperations.AssemblyInfo.cs
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\2. BasicStackOperations\obj\Debug\netcoreapp2.0\2. BasicStackOperations.dll
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\2. BasicStackOperations\obj\Debug\netcoreapp2.0\2. BasicStackOperations.pdb

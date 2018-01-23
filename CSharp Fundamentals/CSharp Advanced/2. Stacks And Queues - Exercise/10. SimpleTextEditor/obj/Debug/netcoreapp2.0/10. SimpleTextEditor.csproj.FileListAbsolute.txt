@@ -1,0 +1,11 @@
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\bin\Debug\netcoreapp2.0\10. SimpleTextEditor.deps.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\bin\Debug\netcoreapp2.0\10. SimpleTextEditor.runtimeconfig.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\bin\Debug\netcoreapp2.0\10. SimpleTextEditor.runtimeconfig.dev.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\bin\Debug\netcoreapp2.0\10. SimpleTextEditor.dll
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\bin\Debug\netcoreapp2.0\10. SimpleTextEditor.pdb
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\obj\Debug\netcoreapp2.0\10. SimpleTextEditor.csproj.CoreCompileInputs.cache
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\obj\Debug\netcoreapp2.0\10. SimpleTextEditor.AssemblyInfoInputs.cache
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\obj\Debug\netcoreapp2.0\10. SimpleTextEditor.AssemblyInfo.cs
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\obj\Debug\netcoreapp2.0\10. SimpleTextEditor.dll
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\obj\Debug\netcoreapp2.0\10. SimpleTextEditor.pdb
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\10. SimpleTextEditor\obj\Debug\netcoreapp2.0\10. SimpleTextEditor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\bin\Debug\netcoreapp2.0\6. TruckTour.deps.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\bin\Debug\netcoreapp2.0\6. TruckTour.runtimeconfig.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\bin\Debug\netcoreapp2.0\6. TruckTour.runtimeconfig.dev.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\bin\Debug\netcoreapp2.0\6. TruckTour.dll
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\bin\Debug\netcoreapp2.0\6. TruckTour.pdb
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\obj\Debug\netcoreapp2.0\6. TruckTour.csprojResolveAssemblyReference.cache
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\obj\Debug\netcoreapp2.0\6. TruckTour.csproj.CoreCompileInputs.cache
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\obj\Debug\netcoreapp2.0\6. TruckTour.AssemblyInfoInputs.cache
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\obj\Debug\netcoreapp2.0\6. TruckTour.AssemblyInfo.cs
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\obj\Debug\netcoreapp2.0\6. TruckTour.dll
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\6. TruckTour\obj\Debug\netcoreapp2.0\6. TruckTour.pdb

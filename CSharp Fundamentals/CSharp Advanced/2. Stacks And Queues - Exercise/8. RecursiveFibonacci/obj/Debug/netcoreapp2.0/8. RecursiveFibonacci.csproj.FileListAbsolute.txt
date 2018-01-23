@@ -1,0 +1,11 @@
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\bin\Debug\netcoreapp2.0\8. RecursiveFibonacci.deps.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\bin\Debug\netcoreapp2.0\8. RecursiveFibonacci.runtimeconfig.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\bin\Debug\netcoreapp2.0\8. RecursiveFibonacci.runtimeconfig.dev.json
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\bin\Debug\netcoreapp2.0\8. RecursiveFibonacci.dll
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\bin\Debug\netcoreapp2.0\8. RecursiveFibonacci.pdb
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\obj\Debug\netcoreapp2.0\8. RecursiveFibonacci.csprojResolveAssemblyReference.cache
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\obj\Debug\netcoreapp2.0\8. RecursiveFibonacci.csproj.CoreCompileInputs.cache
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\obj\Debug\netcoreapp2.0\8. RecursiveFibonacci.AssemblyInfoInputs.cache
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\obj\Debug\netcoreapp2.0\8. RecursiveFibonacci.AssemblyInfo.cs
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\obj\Debug\netcoreapp2.0\8. RecursiveFibonacci.dll
+c:\users\doba7a\source\repos\2. Stacks And Queues - Exercise\8. RecursiveFibonacci\obj\Debug\netcoreapp2.0\8. RecursiveFibonacci.pdb
