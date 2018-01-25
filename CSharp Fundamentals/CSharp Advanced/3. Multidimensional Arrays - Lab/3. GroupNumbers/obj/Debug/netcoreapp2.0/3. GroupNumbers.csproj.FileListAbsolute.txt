@@ -1,0 +1,11 @@
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\bin\Debug\netcoreapp2.0\3. GroupNumbers.deps.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\bin\Debug\netcoreapp2.0\3. GroupNumbers.runtimeconfig.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\bin\Debug\netcoreapp2.0\3. GroupNumbers.runtimeconfig.dev.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\bin\Debug\netcoreapp2.0\3. GroupNumbers.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\bin\Debug\netcoreapp2.0\3. GroupNumbers.pdb
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\obj\Debug\netcoreapp2.0\3. GroupNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\obj\Debug\netcoreapp2.0\3. GroupNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\obj\Debug\netcoreapp2.0\3. GroupNumbers.AssemblyInfoInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\obj\Debug\netcoreapp2.0\3. GroupNumbers.AssemblyInfo.cs
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\obj\Debug\netcoreapp2.0\3. GroupNumbers.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\3. Multidimensional Arrays - Lab\3. GroupNumbers\obj\Debug\netcoreapp2.0\3. GroupNumbers.pdb
