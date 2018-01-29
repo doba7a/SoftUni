@@ -1,0 +1,10 @@
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\3. TwoXTwoSquaresOfEqualChars\bin\Debug\netcoreapp2.0\3. TwoXTwoSquaresOfEqualChars.deps.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\3. TwoXTwoSquaresOfEqualChars\bin\Debug\netcoreapp2.0\3. TwoXTwoSquaresOfEqualChars.runtimeconfig.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\3. TwoXTwoSquaresOfEqualChars\bin\Debug\netcoreapp2.0\3. TwoXTwoSquaresOfEqualChars.runtimeconfig.dev.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\3. TwoXTwoSquaresOfEqualChars\bin\Debug\netcoreapp2.0\3. TwoXTwoSquaresOfEqualChars.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\3. TwoXTwoSquaresOfEqualChars\bin\Debug\netcoreapp2.0\3. TwoXTwoSquaresOfEqualChars.pdb
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\3. TwoXTwoSquaresOfEqualChars\obj\Debug\netcoreapp2.0\3. TwoXTwoSquaresOfEqualChars.csproj.CoreCompileInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\3. TwoXTwoSquaresOfEqualChars\obj\Debug\netcoreapp2.0\3. TwoXTwoSquaresOfEqualChars.AssemblyInfoInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\3. TwoXTwoSquaresOfEqualChars\obj\Debug\netcoreapp2.0\3. TwoXTwoSquaresOfEqualChars.AssemblyInfo.cs
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\3. TwoXTwoSquaresOfEqualChars\obj\Debug\netcoreapp2.0\3. TwoXTwoSquaresOfEqualChars.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\3. TwoXTwoSquaresOfEqualChars\obj\Debug\netcoreapp2.0\3. TwoXTwoSquaresOfEqualChars.pdb

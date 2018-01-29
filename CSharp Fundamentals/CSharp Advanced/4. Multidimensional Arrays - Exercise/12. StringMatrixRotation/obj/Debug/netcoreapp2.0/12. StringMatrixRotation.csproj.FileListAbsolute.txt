@@ -1,0 +1,11 @@
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\bin\Debug\netcoreapp2.0\12. StringMatrixRotation.deps.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\bin\Debug\netcoreapp2.0\12. StringMatrixRotation.runtimeconfig.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\bin\Debug\netcoreapp2.0\12. StringMatrixRotation.runtimeconfig.dev.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\bin\Debug\netcoreapp2.0\12. StringMatrixRotation.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\bin\Debug\netcoreapp2.0\12. StringMatrixRotation.pdb
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\obj\Debug\netcoreapp2.0\12. StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\obj\Debug\netcoreapp2.0\12. StringMatrixRotation.csproj.CoreCompileInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\obj\Debug\netcoreapp2.0\12. StringMatrixRotation.AssemblyInfoInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\obj\Debug\netcoreapp2.0\12. StringMatrixRotation.AssemblyInfo.cs
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\obj\Debug\netcoreapp2.0\12. StringMatrixRotation.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\4. Multidimensional Arrays - Exercise\12. StringMatrixRotation\obj\Debug\netcoreapp2.0\12. StringMatrixRotation.pdb
