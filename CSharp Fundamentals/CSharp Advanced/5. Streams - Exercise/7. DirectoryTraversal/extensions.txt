@@ -1,6 +1,0 @@
-.cs
---DirectoryTraversal.cs - 2.08kb
-.csproj
---7. DirectoryTraversal.csproj - 0.17kb
-.txt
---extensions.txt - 0.00kb
