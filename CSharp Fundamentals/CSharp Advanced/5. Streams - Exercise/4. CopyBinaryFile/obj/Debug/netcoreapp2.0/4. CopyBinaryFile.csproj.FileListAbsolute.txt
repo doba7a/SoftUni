@@ -1,0 +1,11 @@
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\bin\Debug\netcoreapp2.0\4. CopyBinaryFile.deps.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\bin\Debug\netcoreapp2.0\4. CopyBinaryFile.runtimeconfig.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\bin\Debug\netcoreapp2.0\4. CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\bin\Debug\netcoreapp2.0\4. CopyBinaryFile.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\bin\Debug\netcoreapp2.0\4. CopyBinaryFile.pdb
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\obj\Debug\netcoreapp2.0\4. CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\obj\Debug\netcoreapp2.0\4. CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\obj\Debug\netcoreapp2.0\4. CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\obj\Debug\netcoreapp2.0\4. CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\obj\Debug\netcoreapp2.0\4. CopyBinaryFile.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\4. CopyBinaryFile\obj\Debug\netcoreapp2.0\4. CopyBinaryFile.pdb

@@ -1,0 +1,11 @@
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\bin\Debug\netcoreapp2.0\5. SlicingFile.deps.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\bin\Debug\netcoreapp2.0\5. SlicingFile.runtimeconfig.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\bin\Debug\netcoreapp2.0\5. SlicingFile.runtimeconfig.dev.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\bin\Debug\netcoreapp2.0\5. SlicingFile.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\bin\Debug\netcoreapp2.0\5. SlicingFile.pdb
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\obj\Debug\netcoreapp2.0\5. SlicingFile.csprojResolveAssemblyReference.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\obj\Debug\netcoreapp2.0\5. SlicingFile.csproj.CoreCompileInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\obj\Debug\netcoreapp2.0\5. SlicingFile.AssemblyInfoInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\obj\Debug\netcoreapp2.0\5. SlicingFile.AssemblyInfo.cs
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\obj\Debug\netcoreapp2.0\5. SlicingFile.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\5. SlicingFile\obj\Debug\netcoreapp2.0\5. SlicingFile.pdb

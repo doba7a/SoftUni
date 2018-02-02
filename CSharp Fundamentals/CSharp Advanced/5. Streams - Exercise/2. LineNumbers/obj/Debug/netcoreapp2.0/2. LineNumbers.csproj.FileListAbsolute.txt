@@ -1,0 +1,10 @@
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\2. LineNumbers\bin\Debug\netcoreapp2.0\2. LineNumbers.deps.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\2. LineNumbers\bin\Debug\netcoreapp2.0\2. LineNumbers.runtimeconfig.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\2. LineNumbers\bin\Debug\netcoreapp2.0\2. LineNumbers.runtimeconfig.dev.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\2. LineNumbers\bin\Debug\netcoreapp2.0\2. LineNumbers.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\2. LineNumbers\bin\Debug\netcoreapp2.0\2. LineNumbers.pdb
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\2. LineNumbers\obj\Debug\netcoreapp2.0\2. LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\2. LineNumbers\obj\Debug\netcoreapp2.0\2. LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\2. LineNumbers\obj\Debug\netcoreapp2.0\2. LineNumbers.AssemblyInfo.cs
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\2. LineNumbers\obj\Debug\netcoreapp2.0\2. LineNumbers.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\2. LineNumbers\obj\Debug\netcoreapp2.0\2. LineNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\3. WordCount\bin\Debug\netcoreapp2.0\3. WordCount.deps.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\3. WordCount\bin\Debug\netcoreapp2.0\3. WordCount.runtimeconfig.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\3. WordCount\bin\Debug\netcoreapp2.0\3. WordCount.runtimeconfig.dev.json
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\3. WordCount\bin\Debug\netcoreapp2.0\3. WordCount.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\3. WordCount\bin\Debug\netcoreapp2.0\3. WordCount.pdb
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\3. WordCount\obj\Debug\netcoreapp2.0\3. WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\3. WordCount\obj\Debug\netcoreapp2.0\3. WordCount.AssemblyInfoInputs.cache
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\3. WordCount\obj\Debug\netcoreapp2.0\3. WordCount.AssemblyInfo.cs
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\3. WordCount\obj\Debug\netcoreapp2.0\3. WordCount.dll
+C:\Users\Doba7a\Documents\Visual Studio 2017\Projects\5. Streams - Exercise\3. WordCount\obj\Debug\netcoreapp2.0\3. WordCount.pdb
