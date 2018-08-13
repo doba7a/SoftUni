@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20180808121729_Initial.cs" />
+    <Compile Remove="Migrations\20180808122032_Initial.cs" />
+    <Compile Remove="Migrations\20180808122411_Initial.cs" />
+    <Compile Remove="Migrations\20180808123405_Initial.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Instagraph.Models\Instagraph.Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. ProductShop", "1. ProductShop\1. ProductShop.csproj", "{8535E440-60ED-424F-9424-8051C6F98B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. CarDealer", "2. CarDealer\2. CarDealer.csproj", "{A899A60A-E8F4-4E81-B29A-D5D2B98BB2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8535E440-60ED-424F-9424-8051C6F98B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8535E440-60ED-424F-9424-8051C6F98B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8535E440-60ED-424F-9424-8051C6F98B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8535E440-60ED-424F-9424-8051C6F98B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A899A60A-E8F4-4E81-B29A-D5D2B98BB2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A899A60A-E8F4-4E81-B29A-D5D2B98BB2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A899A60A-E8F4-4E81-B29A-D5D2B98BB2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A899A60A-E8F4-4E81-B29A-D5D2B98BB2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {883452A0-558E-41AD-8F07-26392843CB48}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<albums>
+  <album>
+    <name>Fear Of The Dark</name>
+    <artis>Iron Maiden</artis>
+    <year>1992</year>
+    <producer>Martin Birch, Steve Harris</producer>
+    <price>20.00</price>
+    <songs>
+      <song>
+        <title>Be Quick or Be Dead</title>
+        <duration>3:21</duration>
+      </song>
+      <song>
+        <title>Afraid to Shoot Strangers</title>
+        <duration>6:50</duration>
+      </song>
+      <song>
+        <title>Fear of the Dark</title>
+        <duration>7:16</duration>
+      </song>
+      <song>
+        <title>Judas Be My Guide</title>
+        <duration>3:06</duration>
+      </song>
+      <song>
+        <title>Chains of Misery</title>
+        <duration>3:33</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>The Book Of Souls</name>
+    <artis>Iron Maiden</artis>
+    <year>2015</year>
+    <producer>Kevin Shirley, Steve Harris</producer>
+    <price>25.00</price>
+    <songs>
+      <song>
+        <title>If Eternity Should Fail</title>
+        <duration>8:28</duration>
+      </song>
+      <song>
+        <title>The Book of Souls</title>
+        <duration>10:27</duration>
+      </song>
+      <song>
+        <title>The Man of Sorrows</title>
+        <duration>6:28</duration>
+      </song>
+      <song>
+        <title>The Red and the Black"</title>
+        <duration>13:33</duration>
+      </song>
+      <song>
+        <title>Tears of a Clown</title>
+        <duration>4:59</duration>
+      </song>
+    </songs>
+  </album>
+</albums>

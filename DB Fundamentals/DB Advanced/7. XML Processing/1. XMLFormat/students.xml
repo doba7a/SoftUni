@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+  <student>
+    <name>Stamat Stamatov</name>
+    <gender>Male</gender>
+    <birthDate>1998/01/01</birthDate>
+    <phoneNumber>0891234567</phoneNumber>
+    <email>stamat.stamatov@abv.bg</email>
+    <university>SoftUni</university>
+    <facultyNumber>12524124</facultyNumber>
+    <exams>
+      <exam>
+        <name>Programming Basic</name>
+        <dateTaken>2013/01/01</dateTaken>
+        <grade>6.00</grade>
+      </exam>
+      <exam>
+        <name>Programming Fundamentals</name>
+        <dateTaken>2013/03/01</dateTaken>
+        <grade>6.00</grade>
+      </exam>
+      <exam>
+        <name>C# Fundamentals</name>
+        <dateTaken>2013/06/01</dateTaken>
+        <grade>6.00</grade>
+      </exam>
+    </exams>
+  </student>
+   <student>
+    <name>Pesho Peshev</name>
+    <gender>Male</gender>
+    <birthDate>1995/01/01</birthDate>
+    <phoneNumber>0897654321</phoneNumber>
+    <email>pesho.peshev@abv.bg</email>
+    <university>UNWE</university>
+    <facultyNumber>12345678</facultyNumber>
+    <exams>
+      <exam>
+        <name>Accounting</name>
+        <dateTaken>2016/01/05</dateTaken>
+        <grade>6.00</grade>
+      </exam>
+      <exam>
+        <name>Finances</name>
+        <dateTaken>2016/01/07</dateTaken>
+        <grade>6.00</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Gosho Goshov</name>
+    <gender>Male</gender>
+    <birthDate>1990/01/01</birthDate>
+    <phoneNumber>0896547321</phoneNumber>
+    <email>gosho.goshov@abv.bg</email>
+    <university>Sofia University</university>
+    <facultyNumber>64332167</facultyNumber>
+    <exams>
+      <exam>
+        <name>History</name>
+        <dateTaken>2016/01/05</dateTaken>
+        <grade>6.00</grade>
+      </exam>
+      <exam>
+        <name>Law</name>
+        <dateTaken>2016/01/07</dateTaken>
+        <grade>6.00</grade>
+      </exam>
+    </exams>
+  </student>
+</students>
